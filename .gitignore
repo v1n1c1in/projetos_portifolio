@@ -1,0 +1,5 @@
+#---Dependenicas----
+**/node_modules
+#---Variaveis de dados sensiveis------
+**/.env
+
